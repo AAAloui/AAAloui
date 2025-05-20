@@ -7,19 +7,31 @@ My expertise spans data platform migrations (on-prem to cloud and cloud-to-cloud
 
 Whether it's building new systems from the ground up or improving and automating existing ones, I focus on delivering reliable solutions while ensuring maintainability and performance. I'm constantly learning, optimizing, and pushing for clean, automated, and production-ready pipelines.
 ___
-### 💪 Here is what I use : 
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Processing-Spark-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ETL-Databricks-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ETL-ADF-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-dotNet-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DevOps-AzurePipelines-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## 🏗 Tech Stack
+
+### ☁ Cloud Platforms
+- **Azure** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25"/>
+- **AWS** <img src="https://www.svgrepo.com/show/448266/aws.svg" width="25"/>
+- **Oracle** <img src="https://www.svgrepo.com/show/448245/oracle.svg" width="25"/>
+
+### ⚡ Data Processing & ETL
+- **Apache Spark** <img src="https://www.svgrepo.com/show/372952/spark.svg" width="25"/>
+- **Apache Airflow** <img src="https://www.svgrepo.com/show/353380/airflow.svg" width=25>
+- **Databricks** <img src="https://www.svgrepo.com/show/330261/databricks.svg" width="25"/>
+- **Azure Data Factory** <img src="https://symbols.getvecta.com/stencil_28/27_data-factory.8004c08598.svg" width="25"/>
+- **Azure Data Explorer** <img src="https://www.svgrepo.com/show/330016/azuredataexplorer.svg" width="25"/>
+
+### 💻 Programming Languages
+- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/>
+- **Scala** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="25"/>
+- **C++** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="25"/>
+- **.NET** <img src="https://www.svgrepo.com/show/376369/dotnet.svg" width="25"/>
+
+### 🛠 DevOps & Tools
+- **Docker** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25"/>
+- **Terraform** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="25"/>
+- **Azure Pipelines** <img src="https://www.svgrepo.com/show/341634/azure-pipelines.svg" width="25"/>
+- **Github Actions** <img src="https://www.svgrepo.com/show/512317/github-142.svg" width="25"/>
 ___
 ## 🤝 Let's Collaborate!
 I'm always excited to work on innovative data engineering projects, solve complex problems, and exchange knowledge with the community. If you're working on:
