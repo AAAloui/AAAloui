@@ -8,7 +8,7 @@ ___
 <p align="center">Whether it's building new systems from the ground up or improving and automating existing ones, I focus on delivering reliable solutions while ensuring maintainability and performance. I'm constantly learning, optimizing, and pushing for clean, automated, and production-ready pipelines.</p>
 
 _____
-<h3 align="center">🚀 Tools & Technologies</h3>
+<h3 align="center"> <img src="src/magic-wand.gif" width="30px">  Tools & Technologies</h3>
 
 <table align="center">
   <tr>
