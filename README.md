@@ -36,13 +36,13 @@ _____
 ___
 <h3 align="center">🤝 Let's Collaborate!</h3>
 <p align="center">I'm always excited to work on innovative data engineering projects, solve complex problems, and exchange knowledge with the community. If you're working on:</p>
-<p align="center">- 🚀 **Cloud Data Solutions** (Azure, AWS, Databricks)</p>
-<p align="center">- 🔄 **ETL Pipelines & Data Automation**</p>
-<p align="center">- 🛠 **DevOps & Infrastructure as Code**</p>
-<p align="center">- 📊 **Data Analytics & Visualization**</p>
-<p align="center">- 🏗 **Scalable Architectures**</p>
-<p align="center">- 🎯 **Challenging Projects**</p>
-<p align="center">- ⚡ **Efficient Data Solutions**</p>
+<p align="center">- 🚀 Cloud Data Solutions (Azure, AWS, Databricks)</p>
+<p align="center">- 🔄 ETL Pipelines & Data Automation</p>
+<p align="center">- 🛠 DevOps & Infrastructure as Code</p>
+<p align="center">- 📊 Data Analytics & Visualization</p>
+<p align="center">- 🏗 Scalable Architectures</p>
+<p align="center">- 🎯 Challenging Projects</p>
+<p align="center">- ⚡ Efficient Data Solutions</p>
 
 <p align="center">Then let's connect and make something awesome together! Whether you have an interesting challenge, an open-source idea, or just want to brainstorm solutions, feel free to reach out.</p>
 
