@@ -1,4 +1,5 @@
-![Header](https://media.licdn.com/dms/image/v2/D4E16AQHqo4HR2UYFPg/profile-displaybackgroundimage-shrink_350_1400/B4EZZhxCPwHMAY-/0/1745396967167?e=1751500800&v=beta&t=pqP0rvSA6VYhJsYJ0OV5fI6-XR6rxGRNUGuHg1x342s) 
+<h3 align="center"> <img src="src/lyon_skyline-removebg-preview.png"></h3>
+  
 ___
 <h3 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there </h3> 
 <p align="center">I'm Almostapha, a passionate and results-driven Data Engineer with over 5 years of hands-on experience designing and delivering robust, scalable, and efficient data solutions. I'm certified across Azure, AWS, and Databricks, and I've had the opportunity to work with leading organizations such as TotalEnergies, Groupe SEB, Intelcia, Araymond, and Pichet Immobilier.</p>
